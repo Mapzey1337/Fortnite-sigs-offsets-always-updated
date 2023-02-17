@@ -10,4 +10,6 @@ K2_Drawline - 0xA03DFF4 / 48 81 EC ? ? ? ? F2 41 0F 10 08 F2 41 0F 10 40 ? F2 0F
 
 k2_Drawbox - 0xA03DF58 / 40 55 48 8D 6C 24 ? 48 81 EC ? ? ? ? 0F 57 C0 66 41 0F 2F 00 73 78 66 41 0F 2F 40 ? 73 70 48 8B 89 ? ? ? ? 48 85 C9 74 64 0F 10 02 F3 0F 7F 45 ?
 
+FreeFN - 48 89 D1 48 FF 25 ? ? ? ? C3
+
 Tell me all offsets that you want will post all very soon
